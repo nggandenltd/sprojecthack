@@ -1,4 +1,4 @@
-reg(){
+greg(){
 rm -rf /data/tmp/index &> /dev/null
 mkdir /data/tmp/index &> /dev/null
 mkdir /data/tmp/index/A1hbsb &> /dev/null
